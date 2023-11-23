@@ -1,7 +1,3 @@
-* {
-    text-align: center;
-}
-
 h1 {
     text-align: center;
     font-weight: 900;
@@ -29,4 +25,24 @@ button {
 
 #save-btn {
     background-color: darkgreen;
+}
+
+#purchase-btn {
+    background-color: rgb(6, 143, 6);
+    color: black;
+}
+
+p {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+img {
+    width: 200px;
+    display: block;
+    align-items: center;
+}
+
+#error {
+    color: rgb(250, 86, 86);
 }
