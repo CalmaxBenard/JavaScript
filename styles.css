@@ -1,9 +1,32 @@
+* {
+    text-align: center;
+}
+
 h1 {
     text-align: center;
     font-weight: 900;
 }
 
-#count-el {
-    text-align: center;
-    background-color: skyblue;
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn {
+    background-color: darkred;
+}
+
+#save-btn {
+    background-color: darkgreen;
 }
